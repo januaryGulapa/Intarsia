@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crochet World</title>
+    <link rel="stylesheet" href="style.css"> <!-- You can create a separate CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to Crochet World</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#patterns">Patterns</a></li>
+                <li><a href="#tutorials">Tutorials</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Explore the World of Crochet</h2>
+        <p>Welcome to Crochet World, your one-stop destination for crochet patterns, tutorials, and inspiration.</p>
+    </section>
+
+    <section id="patterns">
+        <h2>Crochet Patterns</h2>
+        <p>Discover a wide range of crochet patterns for blankets, scarves, and more.</p>
+    </section>
+
+    <section id="tutorials">
+        <h2>Crochet Tutorials</h2>
+        <p>Learn how to crochet with step-by-step tutorials for beginners and advanced crocheters.</p>
+    </section>
+
+    <section id="gallery">
+        <h2>Crochet Gallery</h2>
+        <p>View beautiful crochet projects created by our community members.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or would like to get in touch, please email us at <a href="mailto:info@crochetworld.com">info@crochetworld.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Crochet World</p>
+    </footer>
+</body>
+</html>
